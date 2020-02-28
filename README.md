@@ -1,24 +1,14 @@
-# card
+# A skeleton Vue + Tailwind CSS project
 
-## Project setup
+### Getting Start
 ```
-yarn install
-```
+$ git clone git@github.com:horaceho/vue-tailwind-skeleton.git skeleton
+$ cd skeleton
+$ yarn install
+$ yarn serve
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+$ open http://localhost:8080/
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Documentation
+On [Medium](https://medium.com/@horaceh/how-to-setup-a-tailwind-css-tailwind-ui-project-with-vue-cli-fdc671d69e48).
